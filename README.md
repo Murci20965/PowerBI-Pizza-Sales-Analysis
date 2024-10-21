@@ -1,4 +1,7 @@
 # Pizza Sales Analysis Dashboard
+
+<div align="center"> <img src="Home.png" alt="Dashboard Overview" width="45%" /> <img src="Best&worstSellers.png" alt="Pizza Sales Dashboard" width="45%" /> </div>
+
 Overview
 This project demonstrates the creation of an interactive Power BI dashboard to analyze pizza sales data for the year 2015. The project integrates both SQL for data extraction and Power BI for data visualization, enabling key business insights into sales trends, customer preferences, and performance across pizza categories.
 
